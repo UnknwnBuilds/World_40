@@ -1,5 +1,3 @@
-World_40
-
 A Riverious Tale | 250 x 250 map, 50% world size, Slate & Marble, Temperate Forest 
 
 Mods: All mods can be safely removed
